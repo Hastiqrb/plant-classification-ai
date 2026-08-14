@@ -50,7 +50,19 @@ A balanced subset of the dataset was created for training and evaluation.
 - Streamlit
 - Jupyter Notebook
 
+## 📊 Jupyter Notebook
+
+The notebook contains data analysis, preprocessing,
+visualizations, model training and evaluation.
+
+## 🎥 Application Demo
+
+A short demo of the Streamlit application is available here:
+
+[▶️ Watch the Demo](VIDEO_LINK)
+
 ## 📁 Project Structure
+
 
 ```text
 plant-classification-ai/
