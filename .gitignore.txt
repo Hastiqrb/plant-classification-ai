@@ -1,0 +1,17 @@
+# Datasets
+datasets/
+datasets_balanced/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Anaconda project files
+anaconda_projects/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
