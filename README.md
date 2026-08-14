@@ -56,16 +56,9 @@ A balanced subset of the dataset was created for training and evaluation.
 
 ## 📊 Jupyter Notebook
 
-The notebook contains:
+The notebook contains data analysis, preprocessing, visualization, model training, and evaluation.
 
-- Data analysis
-- Data preprocessing
-- Dataset visualization
-- Model training
-- CNN and MLP comparison
-- Model evaluation
-
-### 📷 Project Analysis
+### Model Results
 
 ![Plant Detection Samples](screenshots/Plant%20detection%20samples.png)
 
@@ -77,11 +70,19 @@ The notebook contains:
 
 ![Model Accuracy Comparison](screenshots/Comparison%20of%20Models%20Accuracy.png)
 
-## 🎥 Application Demo
+## 🖥️ Streamlit Application
 
-A short demo of the Streamlit application:
+The project also includes a graphical interface built with Streamlit for uploading plant images and displaying the model's prediction.
 
-[▶️ Watch the Application Demo](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/demo/plant-classification-demo.MP4)
+### Application Screenshots
+
+![Application Interface](app-screenshots/01_app_interface.png)
+
+![Image Upload](app-screenshots/02_image_upload.png)
+
+![Prediction Process](app-screenshots/03_prediction_process.png)
+
+![Prediction Result](app-screenshots/04_prediction_result.png)
 
 ## 📁 Project Structure
 
@@ -103,5 +104,8 @@ plant-classification-ai/
 │   ├── MLP model accuracy.png
 │   └── Plant detection samples.png
 │
-└── demo/
-    └── plant-classification-demo.MP4
+└── app-screenshots/
+    ├── 01_app_interface.png
+    ├── 02_image_upload.png
+    ├── 03_prediction_process.png
+    └── 04_prediction_result.png
