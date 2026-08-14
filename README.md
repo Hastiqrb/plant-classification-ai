@@ -76,10 +76,13 @@ The project also includes a graphical interface built with Streamlit for uploadi
 
 ### Application Screenshots
 
-01_app_interface.jpg
-02_image_upload.jpg
-03_prediction_process.jpg
-04_prediction_result.jpg
+![Application Interface](app-screenshots/01_app_interface.jpg)
+
+![Image Upload](app-screenshots/02_image_upload.jpg)
+
+![Prediction Process](app-screenshots/03_prediction_process.jpg)
+
+![Prediction Result](app-screenshots/04_prediction_result.jpg)
 
 ## 📁 Project Structure
 
