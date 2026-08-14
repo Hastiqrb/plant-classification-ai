@@ -81,7 +81,7 @@ The notebook contains:
 
 A short demo of the Streamlit application:
 
-[▶️ Watch the Application Demo](demo/plant-classification-demo.MP4)
+[▶️ Watch the Application Demo](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/demo/plant-classification-demo.MP4)
 
 ## 📁 Project Structure
 
